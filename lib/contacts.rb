@@ -15,6 +15,6 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-  contacts.each do |d_key, d_value|
-    if
+  favorite_ice_cream_flavors.each do |flavor|
+    if 
 end
